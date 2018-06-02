@@ -15,6 +15,15 @@ Pin requirement;
    No digits can be repeated in the new pin number.
 
    Adjacent digits in the new pin number must not be sequential.
+   
+This is how it looks. 
+   
+   
+   ![image](https://user-images.githubusercontent.com/37284591/40869052-a3312340-6668-11e8-899a-126529b80314.png)
+   
+And some responses. 
+
+	
 
  
 
