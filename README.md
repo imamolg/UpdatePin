@@ -23,8 +23,7 @@ This is how it looks.
    
 And some responses. 
 
+
+![image](https://user-images.githubusercontent.com/37284591/40869114-66280c74-6669-11e8-926d-07bb1a11423a.png)
 	
 
-              
-	
-	
